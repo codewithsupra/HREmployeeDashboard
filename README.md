@@ -6,7 +6,7 @@
 
 This HR Dashboard project utilizes HR data with over 22,000 rows from the year 2000 to 2020. The data was cleaned and analyzed using MySQL Workbench, and the insights were visualized using Power BI.
 
-## Questions
+
 
 
 
